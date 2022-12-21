@@ -1,5 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dn1892hdb23890hrf389023hn80f23hnf02/4f32q4f31f4f21f2f2f21fwefwefwefwedfb278fb2389fb18hfb20138/main/side2"))()
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/topillesrevenge/Streamable-Silent/main/Side"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/simowv/dbh9qdn92801nd0/main/side"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
