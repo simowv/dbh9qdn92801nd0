@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dn1892hdb23890hrf389023hn80f23hnf02/4f32q4f31f4f21f2f2f21fwefwefwefwedfb278fb2389fb18hfb20138/main/side2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/asdnw89dn120dn18d9120nd28901njdmqwioj/dsadwadd12d12d/main/de21212e2e112e12e"))()
 local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/simowv/dbh9qdn92801nd0/main/side"))()
 Aiming.TeamCheck(false)
 
